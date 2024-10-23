@@ -1,5 +1,5 @@
 import telebot
-import random
+import random #drt
 from threading import Timer
 
 bot = telebot.TeleBot('7883139018:AAGaMHDoRfVT6K2V7FaGQwETVxrRlP2Wu2M')
